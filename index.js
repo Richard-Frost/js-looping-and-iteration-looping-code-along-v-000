@@ -9,10 +9,8 @@ return names
 }
 
 function tailsNeverFails() {
-  i = 0;
-  return Math.random() >= 0.5;}
-  while (tailsNeverFails()){
-    1++
+  let tails = 0;
+
     
     console.log()
   }
