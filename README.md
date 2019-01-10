@@ -1,4 +1,4 @@
-learn# Looping Code-along
+# Looping Code-along
 
 ## Objectives
 
